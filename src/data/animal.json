@@ -1,156 +1,147 @@
 [
-    {
-        "name": "Cape Lion",
-        "image": "https://a-z-animals.com/media/2022/09/shutterstock_1867138441-1024x714.jpg",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Panthera",
-            "scientific_name": "Panthera leo melanochaitus"
-        },
-        "locations": [
-            "Africa"
-        ],
-        "characteristics": {
-            "prey": "Wildebeests, antelopes, zebras, buffalos, rodents, and more",
-            "name_of_young": "cub",
-            "group_behavior": "Pride",
-            "biggest_threat": "Habitat loss and hunting",
-            "most_distinctive_feature": "The male’s dark-colored mane",
-            "gestation_period": "around 100 days",
-            "litter_size": "1-6 cubs",
-            "habitat": "plains",
-            "diet": "Carnivore",
-            "type": "mammal",
-            "common_name": "Cape Lion",
-            "origin": "South Africa",
-            "number_of_species": "1",
-            "location": "South Africa",
-            "color": "BrownYellowWhiteOrange",
-            "skin_type": "Hair",
-            "top_speed": "48 mph",
-            "lifespan": "25 years",
-            "weight": "up to 600 pounds",
-            "height": "4 feet",
-            "length": "6-7 feet",
-            "age_of_sexual_maturity": "3-4 years",
-            "age_of_weaning": "6-7 months"
-        }
+  {
+    "name": "Cat",
+    "image": "https://img.freepik.com/free-vector/little-cute-cat-cartoon-character_1308-140198.jpg?semt=ais_hybrid",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "scientific_name": "Panthera leo melanochaitus"
     },
-    {
-        "name": "Golden Lion Tamarin",
-        "image": "https://www.pbs.org/wnet/nature/files/2024/01/GoldenHeadedLionTamarin-1280x720.jpg",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Primates",
-            "family": "Callitrichidae",
-            "genus": "Leontopithecus",
-            "scientific_name": "Leontopithecus rosalia"
-        },
-        "locations": [
-            "South-America"
-        ],
-        "characteristics": {
-            "main_prey": "Fruit, Insects, Small Mammals, Small Reptiles",
-            "habitat": "Lowland tropical forest",
-            "predators": "Hawks, Wild Cats, Snakes, Rats",
-            "diet": "Omnivore",
-            "average_litter_size": "2",
-            "lifestyle": "Troop",
-            "favorite_food": "Fruit",
-            "type": "Mammal",
-            "slogan": "Native to the eastern rainforests of Brazil!",
-            "color": "BrownBlackGoldOrange",
-            "skin_type": "Hair",
-            "top_speed": "24 mph",
-            "lifespan": "8-15 years",
-            "weight": "550-700g (19-25oz)"
-        }
-    },
-    {
-        "name": "Lion",
-        "image": "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yX3Bob3RvX29mX2FfbGlvbl9pc29sYXRlZF9vbl9jb2xvcl9iYWNrZ3JvdW5kXzJhNzgwMjM1LWRlYTgtNDMyOS04OWVjLTY3ZWMwNjcxZDhiMV8xLmpwZw.jpg",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Panthera",
-            "scientific_name": "Panthera leo"
-        },
-        "locations": [
-            "Africa",
-            "Asia"
-        ],
-        "characteristics": {
-            "prey": "Antelope, Warthog, Zebra",
-            "name_of_young": "Cub",
-            "group_behavior": "Pride",
-            "estimated_population_size": "23,000",
-            "biggest_threat": "Habitat loss",
-            "most_distinctive_feature": "Long and thick hairy mane of the male around the face",
-            "other_name(s)": "African Lion",
-            "gestation_period": "110 days",
-            "habitat": "open woodland, scrub, grassland",
-            "diet": "Carnivore",
-            "average_litter_size": "3",
-            "lifestyle": "Diurnal/Nocturnal",
-            "common_name": "Lion",
-            "number_of_species": "2",
-            "location": "sub-Saharan Africa",
-            "slogan": "Lives in small groups called prides!",
-            "group": "Mammal",
-            "color": "BrownGoldTawnyBlonde",
-            "skin_type": "Fur",
-            "top_speed": "35 mph",
-            "lifespan": "8 - 15 years",
-            "weight": "120kg - 249kg (264lbs - 550lbs)",
-            "length": "1.4m - 2.5m (4.7ft - 8.2ft)",
-            "age_of_sexual_maturity": "2 - 3 years",
-            "age_of_weaning": "6 months"
-        }
-    },
-    {
-        "name": "Lion’s Mane Jellyfish",
-        "image": "https://media.istockphoto.com/id/1434507057/photo/scenic-closeup-of-a-lions-mane-jellyfish-under-the-deep-blue-sea.jpg?s=612x612&w=0&k=20&c=dt_783ibv7sDvfighizEbm2S8KqH2VyMFcvrdDcyNsk=",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Cnidaria",
-            "class": "Scyphozoa",
-            "order": "Semaeostomeae",
-            "family": "Cyaneidae",
-            "genus": "Cyanea",
-            "scientific_name": "Cyanea capillata"
-        },
-        "locations": [
-            "Ocean"
-        ],
-        "characteristics": {
-            "prey": "Fish, zooplankton, shrimp, other jellyfish",
-            "group_behavior": "Solitary/School",
-            "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
-            "biggest_threat": "Pollution",
-            "most_distinctive_feature": "Its size",
-            "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
-            "gestation_period": "One day",
-            "water_type": "Salt",
-            "optimum_ph_level": "8.1",
-            "habitat": "Cooler ocean waters",
-            "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
-            "diet": "Carnivore",
-            "type": "Cnidarian",
-            "common_name": "Lion’s Mane Jellyfish",
-            "number_of_species": "1",
-            "color": "YellowRedWhiteOrangePurple",
-            "lifespan": "One year",
-            "weight": "200 pounds",
-            "length": "As much as 120 feet"
-        }
+    "locations": ["Africa"],
+    "characteristics": {
+      "prey": "Wildebeests, antelopes, zebras, buffalos, rodents, and more",
+      "name_of_young": "cub",
+      "group_behavior": "Pride",
+      "biggest_threat": "Habitat loss and hunting",
+      "most_distinctive_feature": "The male’s dark-colored mane",
+      "gestation_period": "around 100 days",
+      "litter_size": "1-6 cubs",
+      "habitat": "plains",
+      "diet": "Carnivore",
+      "type": "mammal",
+      "common_name": "Cape Lion",
+      "origin": "South Africa",
+      "number_of_species": "1",
+      "location": "South Africa",
+      "color": "BrownYellowWhiteOrange",
+      "skin_type": "Hair",
+      "top_speed": "48 mph",
+      "lifespan": "25 years",
+      "weight": "up to 600 pounds",
+      "height": "4 feet",
+      "length": "6-7 feet",
+      "age_of_sexual_maturity": "3-4 years",
+      "age_of_weaning": "6-7 months"
     }
+  },
+  {
+    "name": "Golden Lion Tamarin",
+    "image": "https://static.vecteezy.com/system/resources/previews/027/695/986/non_2x/lion-symbol-cute-lion-cartoon-vector.jpg",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Callitrichidae",
+      "genus": "Leontopithecus",
+      "scientific_name": "Leontopithecus rosalia"
+    },
+    "locations": ["South-America"],
+    "characteristics": {
+      "main_prey": "Fruit, Insects, Small Mammals, Small Reptiles",
+      "habitat": "Lowland tropical forest",
+      "predators": "Hawks, Wild Cats, Snakes, Rats",
+      "diet": "Omnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Troop",
+      "favorite_food": "Fruit",
+      "type": "Mammal",
+      "slogan": "Native to the eastern rainforests of Brazil!",
+      "color": "BrownBlackGoldOrange",
+      "skin_type": "Hair",
+      "top_speed": "24 mph",
+      "lifespan": "8-15 years",
+      "weight": "550-700g (19-25oz)"
+    }
+  },
+  {
+    "name": "Monkey",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZ-KzRN5R1rO66keKh--4MOxYFHbLEhKHhw&s",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "scientific_name": "Panthera leo"
+    },
+    "locations": ["Africa", "Asia"],
+    "characteristics": {
+      "prey": "Antelope, Warthog, Zebra",
+      "name_of_young": "Cub",
+      "group_behavior": "Pride",
+      "estimated_population_size": "23,000",
+      "biggest_threat": "Habitat loss",
+      "most_distinctive_feature": "Long and thick hairy mane of the male around the face",
+      "other_name(s)": "African Lion",
+      "gestation_period": "110 days",
+      "habitat": "open woodland, scrub, grassland",
+      "diet": "Carnivore",
+      "average_litter_size": "3",
+      "lifestyle": "Diurnal/Nocturnal",
+      "common_name": "Lion",
+      "number_of_species": "2",
+      "location": "sub-Saharan Africa",
+      "slogan": "Lives in small groups called prides!",
+      "group": "Mammal",
+      "color": "BrownGoldTawnyBlonde",
+      "skin_type": "Fur",
+      "top_speed": "35 mph",
+      "lifespan": "8 - 15 years",
+      "weight": "120kg - 249kg (264lbs - 550lbs)",
+      "length": "1.4m - 2.5m (4.7ft - 8.2ft)",
+      "age_of_sexual_maturity": "2 - 3 years",
+      "age_of_weaning": "6 months"
+    }
+  },
+  {
+    "name": "Panda",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJq6pQmUeQIpanEXQtIv-XefDdOVL4JUDpAA&s",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "scientific_name": "Cyanea capillata"
+    },
+    "locations": ["Ocean"],
+    "characteristics": {
+      "prey": "Fish, zooplankton, shrimp, other jellyfish",
+      "group_behavior": "Solitary/School",
+      "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
+      "biggest_threat": "Pollution",
+      "most_distinctive_feature": "Its size",
+      "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
+      "gestation_period": "One day",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "Cooler ocean waters",
+      "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
+      "diet": "Carnivore",
+      "type": "Cnidarian",
+      "common_name": "Lion’s Mane Jellyfish",
+      "number_of_species": "1",
+      "color": "YellowRedWhiteOrangePurple",
+      "lifespan": "One year",
+      "weight": "200 pounds",
+      "length": "As much as 120 feet"
+    }
+  }
 ]
