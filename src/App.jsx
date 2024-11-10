@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import HomePage from "./pages/home";
 import ImageGalleryPage from "./pages/image-gallary";
 import Diet from "./pages/diet";
+import ImageDetailPage from "./pages/image-details";
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/image-gallery" element={<ImageGalleryPage />} />
         <Route path="/diet" element={<Diet />} />
-        {/* Add other routes as necessary */}
+        <Route path="/image/:imageId" element={<ImageDetailPage />} />{" "}
+        {/* New Route */}
       </Routes>
       <Footer />
     </>

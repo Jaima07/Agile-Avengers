@@ -1,6 +1,7 @@
 [
   {
     "name": "Cat",
+    "id": 1,
     "image": "https://img.freepik.com/free-vector/little-cute-cat-cartoon-character_1308-140198.jpg?semt=ais_hybrid",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -11,6 +12,7 @@
       "genus": "Panthera",
       "scientific_name": "Panthera leo melanochaitus"
     },
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "locations": ["Africa"],
     "characteristics": {
       "prey": "Wildebeests, antelopes, zebras, buffalos, rodents, and more",
@@ -50,6 +52,8 @@
       "genus": "Leontopithecus",
       "scientific_name": "Leontopithecus rosalia"
     },
+
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "locations": ["South-America"],
     "characteristics": {
       "main_prey": "Fruit, Insects, Small Mammals, Small Reptiles",
@@ -70,6 +74,7 @@
   },
   {
     "name": "Monkey",
+    "id": 2,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZ-KzRN5R1rO66keKh--4MOxYFHbLEhKHhw&s",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -80,6 +85,7 @@
       "genus": "Panthera",
       "scientific_name": "Panthera leo"
     },
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "locations": ["Africa", "Asia"],
     "characteristics": {
       "prey": "Antelope, Warthog, Zebra",
@@ -111,6 +117,7 @@
   },
   {
     "name": "Panda",
+    "id": 3,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJq6pQmUeQIpanEXQtIv-XefDdOVL4JUDpAA&s",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -121,6 +128,7 @@
       "genus": "Cyanea",
       "scientific_name": "Cyanea capillata"
     },
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "locations": ["Ocean"],
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
@@ -146,6 +154,7 @@
   },
   {
     "name": "Giraffe",
+    "id": 4,
     "image": "https://img.freepik.com/free-vector/hand-drawn-cartoon-giraffe-illustration_23-2150368576.jpg",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -181,6 +190,7 @@
   },
   {
     "name": "Elephant",
+    "id": 7,
     "image": "https://img.freepik.com/free-vector/baby-elephant-cartoon-character_1308-138476.jpg",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -191,6 +201,7 @@
       "genus": "Cyanea",
       "scientific_name": "Cyanea capillata"
     },
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "locations": ["Ocean"],
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
@@ -216,6 +227,7 @@
   },
   {
     "name": "Fox",
+    "id": 5,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ruOR9NwH1u-un5hbrmNCkyhQGciVmyrw2Q&s",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -227,6 +239,7 @@
       "scientific_name": "Cyanea capillata"
     },
     "locations": ["Ocean"],
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
       "group_behavior": "Solitary/School",
@@ -251,6 +264,7 @@
   },
   {
     "name": "Dog",
+    "id": 6,
     "image": "https://img.freepik.com/premium-vector/illustration-cute-puppy-cartoon_991386-27.jpg",
     "taxonomy": {
       "kingdom": "Animalia",
@@ -262,6 +276,7 @@
       "scientific_name": "Cyanea capillata"
     },
     "locations": ["Ocean"],
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
       "group_behavior": "Solitary/School",
