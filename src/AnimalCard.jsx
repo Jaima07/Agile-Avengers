@@ -1,52 +1,74 @@
 import React from "react"
 
-const AnimalAwarenessCard = () => {
+const AnimalInfoCard = () => {
   return (
-    <div className='container my-5 d-flex justify-content-center'>
-      <div className='card shadow-lg' style={{ maxWidth: "700px" }}>
-        <div className='card-header bg-primary text-white'>
-          <h3 className='card-title mb-0'>Connecting People with Animals</h3>
-        </div>
+    <div className='container my-4 d-flex justify-content-center'>
+      <div
+        className='card text-center p-3 shadow-lg'
+        style={{
+          maxWidth: "600px",
+          borderRadius: "15px",
+          backgroundColor: "#FDE68A",
+        }}
+      >
         <div className='card-body'>
-          <p className='card-text'>
-            An animal-focused website serves to connect people with animals,
-            fostering compassion and awareness. Its primary purpose can range
-            from promoting pet adoption, where users can browse profiles of
-            animals in need of homes, to educating visitors about various animal
-            species, their behaviors, habitats, and roles in the ecosystem.
+          <h3 className='card-title' style={{ color: "#F59E0B" }}>
+            Love Animals?
+          </h3>
+          <p className='card-text' style={{ color: "#374151" }}>
+            Our website helps you learn all about animals! You can find pets who
+            need loving homes, discover fun facts about wild animals, and learn
+            ways to protect our furry, scaly, and feathery friends!
           </p>
-          <p className='card-text'>
-            For wildlife enthusiasts, such a site often raises awareness on
-            conservation, providing information about endangered species and the
-            environmental challenges they face, along with actionable ways to
-            support their preservation.
-          </p>
-          <p className='card-text'>
-            Additionally, animal websites are valuable resources for pet owners,
-            offering guidance on pet care, health, grooming, and training,
-            ensuring pets live happier and healthier lives.
-          </p>
-          <p className='card-text'>
-            Many also advocate for ethical treatment, promoting awareness around
-            issues like animal cruelty and wildlife exploitation, and
-            encouraging humane practices and policies.
-          </p>
-          <p className='card-text'>
-            By combining education, resources, and advocacy, an animal website
-            can help build a compassionate community, empowering visitors to
-            take meaningful actions toward animal welfare. Whether the focus is
-            on adoption, conservation, or pet care, an animal website provides
-            essential tools for supporting animals and helping them thrive.
-          </p>
-        </div>
-        <div className='card-footer bg-light text-muted'>
-          <small>
-            Building compassion and awareness for a better world for animals.
-          </small>
+          <div
+            className='card mt-3'
+            style={{ backgroundColor: "#FEF3C7", borderRadius: "10px" }}
+          >
+            <h5 className='mt-2' style={{ color: "#EA580C" }}>
+              Learn about animal
+            </h5>
+            <p className='card-text px-3'>
+              Browse cute photos and stories of animals waiting for a family
+              like yours!
+            </p>
+          </div>
+          <div
+            className='card mt-3'
+            style={{ backgroundColor: "#FEF3C7", borderRadius: "10px" }}
+          >
+            <h5 className='mt-2' style={{ color: "#EA580C" }}>
+              Learn and Protect
+            </h5>
+            <p className='card-text px-3'>
+              Did you know tigers need our help? Or that elephants live in herds
+              and are very social? We share ways you can help save animals in
+              the wild.
+            </p>
+          </div>
+          <div
+            className='card mt-3'
+            style={{ backgroundColor: "#FEF3C7", borderRadius: "10px" }}
+          >
+            <h5 className='mt-2' style={{ color: "#EA580C" }}>
+              Tips
+            </h5>
+            <p className='card-text px-3'>
+              We have cool tips on taking care of your pets, keeping them
+              healthy, and making sure they are happy every day.
+            </p>
+          </div>
+          <div className='mt-4'>
+            <button
+              className='btn btn-warning text-white'
+              style={{ fontSize: "18px", borderRadius: "10px" }}
+            >
+              Join Us!
+            </button>
+          </div>
         </div>
       </div>
     </div>
   )
 }
 
-export default AnimalAwarenessCard
+export default AnimalInfoCard
