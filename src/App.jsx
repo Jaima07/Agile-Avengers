@@ -6,16 +6,11 @@ import AnimalAwarenessCard from "./AnimalCard";
 import Header from "./components/header";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <Header />
       <main>
-        <div className="container">
-          <h1 className="mt-5">Hello, Bootstrap!</h1>
-          <button className="btn btn-primary">Click Me</button>
-        </div>
+        <div className="container"></div>
         <AnimalAwarenessCard />
         <ImageGallery animals={animals} />
       </main>
