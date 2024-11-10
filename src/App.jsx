@@ -3,6 +3,7 @@ import ImageGallery from "./ImageGalary"
 import animals from "./data/animal.json"
 import AnimalAwarenessCard from "./AnimalCard"
 import Header from "./components/header"
+import Footer from "./Footer"
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <AnimalAwarenessCard />
         <ImageGallery animals={animals} />
       </main>
+      <Footer />
     </>
   )
 }
