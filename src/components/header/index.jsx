@@ -1,52 +1,10 @@
-// import React from "react";
-// import { Link } from "react-router-dom"; // Import Link from react-router-dom
-
-// const Header = () => {
-//   return (
-//     <div className="header">
-//       <nav className="navbar">
-//         {/* Logo */}
-//         <img
-//           src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yOF8zZF9yZW5kZXJfY2hhcmFjdGVyX29mX2FfbGlvbl9iYWJ5X2NhcnRvb25fYV80Yzg3N2EyOS01MWM4LTRhYmQtYjljYS04YWU3YTc2NGU2NzYucG5n.png"
-//           alt="Logo"
-//           className="logo"
-//         />
-
-//         {/* Navigation Links */}
-//         <ul className="nav-links">
-//           <li>
-//             <Link to="/image-gallery">Image Gallery</Link>
-//           </li>
-//           <li>
-//             <Link to="/diet">Diet</Link>
-//           </li>
-//           <li>
-//             <Link to="/mating-and-reproduction">Mating and Reproduction</Link>
-//           </li>
-//           <li>
-//             <Link to="/habitat">Habitat</Link>
-//           </li>
-//           <li>
-//             <Link to="/anatomy-and-biology">Anatomy & Biology</Link>
-//           </li>
-//           <li>
-//             <Link to="/behavior">Behavior</Link>
-//           </li>
-//         </ul>
-//       </nav>
-//     </div>
-//   );
-// };
-
-// export default Header;
-
 import React from "react";
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css"; // Make sure Bootstrap CSS is imported
 
 const Header = () => {
   return (
-    <header className="bg-light py-3 shadow-sm">
+    <header className="bg-light py-2 shadow-sm">
       <nav className="navbar navbar-expand-lg navbar-light container">
         {/* Logo */}
         <Link to="/" className="navbar-brand">
@@ -54,7 +12,7 @@ const Header = () => {
             src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yOF8zZF9yZW5kZXJfY2hhcmFjdGVyX29mX2FfbGlvbl9iYWJ5X2NhcnRvb25fYV80Yzg3N2EyOS01MWM4LTRhYmQtYjljYS04YWU3YTc2NGU2NzYucG5n.png"
             alt="Logo"
             className="logo"
-            style={{ height: "40px" }}
+            style={{ height: "55px" }}
           />
         </Link>
 

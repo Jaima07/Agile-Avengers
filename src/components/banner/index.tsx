@@ -4,10 +4,10 @@ import "bootstrap/dist/css/bootstrap.min.css"; // Ensure Bootstrap is imported
 const Banner = () => {
   return (
     <div className="container-fluid p-0">
-      <div className="position-relative text-center bg-dark text-white">
+      <div className="position-relative text-center bg-info text-white">
         {/* Lion Image */}
         <img
-          src="https://cdn.britannica.com/29/150929-050-547070A1/lion-Kenya-Masai-Mara-National-Reserve.jpg" // Replace with your lion image URL
+          src="https://i.ytimg.com/vi/H0HymXQMjf8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3rkje-DYBgGddEC55kMMUG5Ef3g" // Replace with your lion image URL
           alt="Lion"
           className="w-100 p-5"
           style={{ opacity: 0.7, maxHeight: "500px", objectFit: "cover" }}
