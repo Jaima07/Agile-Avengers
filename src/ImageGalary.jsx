@@ -6,16 +6,19 @@ const ImageGallery = ({ animals }) => {
       <div className='row'>
         {animals.map((animal, index) => (
           <div key={index} className='col-6 col-md-4 col-lg-3 mb-4'>
-            <div
-              className='card'
-              style={{ height: "200px", overflow: "hidden" }}
-            >
+            <div className='card h-100' style={{ overflow: "hidden" }}>
               <img
                 src={animal.image}
                 alt={animal.name}
                 className='card-img-top'
-                style={{ objectFit: "cover", height: "100%", width: "100%" }}
+                style={{ objectFit: "cover", height: "200px", width: "100%" }}
               />
+              <div className='card-body'>
+                <h5 className='card-title'>{animal.name}</h5>
+                <p className='card-text'>
+                  <strong>Habitat:</strong> {animal.characteristics.habitat}
+                </p>
+              </div>
             </div>
           </div>
         ))}
