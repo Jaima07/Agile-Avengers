@@ -143,5 +143,145 @@
       "weight": "200 pounds",
       "length": "As much as 120 feet"
     }
+  },
+  {
+    "name": "Giraffe",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-cartoon-giraffe-illustration_23-2150368576.jpg",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "scientific_name": "Cyanea capillata"
+    },
+    "locations": ["Ocean"],
+    "characteristics": {
+      "prey": "Fish, zooplankton, shrimp, other jellyfish",
+      "group_behavior": "Solitary/School",
+      "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
+      "biggest_threat": "Pollution",
+      "most_distinctive_feature": "Its size",
+      "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
+      "gestation_period": "One day",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "Cooler ocean waters",
+      "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
+      "diet": "Carnivore",
+      "type": "Cnidarian",
+      "common_name": "Lion’s Mane Jellyfish",
+      "number_of_species": "1",
+      "color": "YellowRedWhiteOrangePurple",
+      "lifespan": "One year",
+      "weight": "200 pounds",
+      "length": "As much as 120 feet"
+    }
+  },
+  {
+    "name": "Elephant",
+    "image": "https://img.freepik.com/free-vector/baby-elephant-cartoon-character_1308-138476.jpg",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "scientific_name": "Cyanea capillata"
+    },
+    "locations": ["Ocean"],
+    "characteristics": {
+      "prey": "Fish, zooplankton, shrimp, other jellyfish",
+      "group_behavior": "Solitary/School",
+      "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
+      "biggest_threat": "Pollution",
+      "most_distinctive_feature": "Its size",
+      "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
+      "gestation_period": "One day",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "Cooler ocean waters",
+      "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
+      "diet": "Carnivore",
+      "type": "Cnidarian",
+      "common_name": "Lion’s Mane Jellyfish",
+      "number_of_species": "1",
+      "color": "YellowRedWhiteOrangePurple",
+      "lifespan": "One year",
+      "weight": "200 pounds",
+      "length": "As much as 120 feet"
+    }
+  },
+  {
+    "name": "Fox",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ruOR9NwH1u-un5hbrmNCkyhQGciVmyrw2Q&s",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "scientific_name": "Cyanea capillata"
+    },
+    "locations": ["Ocean"],
+    "characteristics": {
+      "prey": "Fish, zooplankton, shrimp, other jellyfish",
+      "group_behavior": "Solitary/School",
+      "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
+      "biggest_threat": "Pollution",
+      "most_distinctive_feature": "Its size",
+      "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
+      "gestation_period": "One day",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "Cooler ocean waters",
+      "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
+      "diet": "Carnivore",
+      "type": "Cnidarian",
+      "common_name": "Lion’s Mane Jellyfish",
+      "number_of_species": "1",
+      "color": "YellowRedWhiteOrangePurple",
+      "lifespan": "One year",
+      "weight": "200 pounds",
+      "length": "As much as 120 feet"
+    }
+  },
+  {
+    "name": "Dog",
+    "image": "https://img.freepik.com/premium-vector/illustration-cute-puppy-cartoon_991386-27.jpg",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "scientific_name": "Cyanea capillata"
+    },
+    "locations": ["Ocean"],
+    "characteristics": {
+      "prey": "Fish, zooplankton, shrimp, other jellyfish",
+      "group_behavior": "Solitary/School",
+      "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
+      "biggest_threat": "Pollution",
+      "most_distinctive_feature": "Its size",
+      "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
+      "gestation_period": "One day",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "Cooler ocean waters",
+      "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
+      "diet": "Carnivore",
+      "type": "Cnidarian",
+      "common_name": "Lion’s Mane Jellyfish",
+      "number_of_species": "1",
+      "color": "YellowRedWhiteOrangePurple",
+      "lifespan": "One year",
+      "weight": "200 pounds",
+      "length": "As much as 120 feet"
+    }
   }
 ]
