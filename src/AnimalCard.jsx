@@ -1,5 +1,3 @@
-import React from "react"
-
 const AnimalInfoCard = () => {
   return (
     <div className='container my-4 d-flex justify-content-center'>

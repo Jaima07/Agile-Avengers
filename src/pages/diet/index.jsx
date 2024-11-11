@@ -1,12 +1,8 @@
-// src/components/Diet.js
-
-import React from "react";
-
 const Diet = () => {
   return (
-    <div className="container py-4">
-      <h2 className="mb-4 text-center">Lion Diet</h2>
-      <p className="lead">
+    <div className='container py-4'>
+      <h2 className='mb-4 text-center'>Lion Diet</h2>
+      <p className='lead'>
         Lions are carnivores and typically hunt large prey like antelope,
         zebras, and buffaloes. They can eat up to 15% of their body weight in
         one meal. Lions usually hunt in groups, with females taking the lead.
@@ -25,7 +21,7 @@ const Diet = () => {
         </li>
       </ul>
     </div>
-  );
-};
+  )
+}
 
-export default Diet;
+export default Diet

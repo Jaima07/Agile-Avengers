@@ -13,7 +13,9 @@
       "scientific_name": "Panthera leo melanochaitus"
     },
     "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
-    "locations": ["Africa"],
+    "locations": [
+      "Africa"
+    ],
     "characteristics": {
       "prey": "Wildebeests, antelopes, zebras, buffalos, rodents, and more",
       "name_of_young": "cub",
@@ -41,6 +43,7 @@
     }
   },
   {
+    "id": 8,
     "name": "Golden Lion Tamarin",
     "image": "https://static.vecteezy.com/system/resources/previews/027/695/986/non_2x/lion-symbol-cute-lion-cartoon-vector.jpg",
     "taxonomy": {
@@ -52,9 +55,10 @@
       "genus": "Leontopithecus",
       "scientific_name": "Leontopithecus rosalia"
     },
-
     "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
-    "locations": ["South-America"],
+    "locations": [
+      "South-America"
+    ],
     "characteristics": {
       "main_prey": "Fruit, Insects, Small Mammals, Small Reptiles",
       "habitat": "Lowland tropical forest",
@@ -86,7 +90,10 @@
       "scientific_name": "Panthera leo"
     },
     "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
-    "locations": ["Africa", "Asia"],
+    "locations": [
+      "Africa",
+      "Asia"
+    ],
     "characteristics": {
       "prey": "Antelope, Warthog, Zebra",
       "name_of_young": "Cub",
@@ -129,7 +136,9 @@
       "scientific_name": "Cyanea capillata"
     },
     "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
-    "locations": ["Ocean"],
+    "locations": [
+      "Ocean"
+    ],
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
       "group_behavior": "Solitary/School",
@@ -165,7 +174,9 @@
       "genus": "Cyanea",
       "scientific_name": "Cyanea capillata"
     },
-    "locations": ["Ocean"],
+    "locations": [
+      "Ocean"
+    ],
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
       "group_behavior": "Solitary/School",
@@ -202,7 +213,9 @@
       "scientific_name": "Cyanea capillata"
     },
     "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
-    "locations": ["Ocean"],
+    "locations": [
+      "Ocean"
+    ],
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
       "group_behavior": "Solitary/School",
@@ -238,7 +251,9 @@
       "genus": "Cyanea",
       "scientific_name": "Cyanea capillata"
     },
-    "locations": ["Ocean"],
+    "locations": [
+      "Ocean"
+    ],
     "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
@@ -275,7 +290,9 @@
       "genus": "Cyanea",
       "scientific_name": "Cyanea capillata"
     },
-    "locations": ["Ocean"],
+    "locations": [
+      "Ocean"
+    ],
     "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
     "characteristics": {
       "prey": "Fish, zooplankton, shrimp, other jellyfish",
